@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=theX\ theY
+comment0.target=Robot(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Robot\r\n\ @param\ theX\ the\ x\ coordinate\r\n\ @param\ theY\ the\ y\ coordinate\r\n
+comment1.params=
+comment1.target=java.awt.Point\ getLocation()
+numComments=2
